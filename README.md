@@ -33,4 +33,4 @@ Categories=Application;Development;
 完成后可以在Application-Programming下看到eclipse图标。
 
 reprinted from:http://my.oschina.net/u/1407116/blog/227087
-                  http://blog.csdn.net/gavin_dinggengjia/article/details/7364375
+                  by http://blog.csdn.net/gavin_dinggengjia/article/details/7364375
